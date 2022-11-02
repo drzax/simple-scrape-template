@@ -12,4 +12,4 @@ Commit and push the repo to GitHub and you're ready to go.
 
 By default the scraper will run [once per week](https://crontab.guru/#6_16_*_*_0), but you can change the cron schedule in the [.github/workflows/scrape.yaml] file.
 
-Data is stored in [data.json].
+Data is stored in [data.json](data.json).
