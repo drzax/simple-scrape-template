@@ -1,6 +1,6 @@
 # Simple GitHub scraper
 
-This is a template repository for a simple [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/) pioneered by Simon Wilison.
+This is a template repository for a simple [GitHub scraper](https://simonwillison.net/2020/Oct/9/git-scraping/), a technique pioneered by Simon Willison.
 
 ## The 'simple' part
 

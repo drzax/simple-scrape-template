@@ -4,10 +4,11 @@ on:
   push:
   workflow_dispatch:
   schedule:
-#     - cron:  '6 16 * * 0'
+    - cron:  '6 16 * * 0'
 
 jobs:
   scheduled:
+    if: github.repository != 'drzax/simple-scrape-template'
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
